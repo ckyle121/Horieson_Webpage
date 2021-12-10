@@ -6,4 +6,4 @@ This project creates structured HTML elements to satisfy specific accessibility 
 The image below shows the body of the webstie that outlines the services offered by Horieson. 
 ![image](https://user-images.githubusercontent.com/75647359/145601992-4485c1d0-2041-4955-b032-44d82484761a.png)
 
-View Website on GitHub Pages: https://ckyle121.github.io/Horieson_Wepage/
+View Website on GitHub Pages: https://ckyle121.github.io/Horieson_Webpage/
